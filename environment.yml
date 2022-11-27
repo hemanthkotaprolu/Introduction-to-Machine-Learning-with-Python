@@ -1,0 +1,11 @@
+name: machine-learning
+
+dependencies:
+  - pip
+  - python
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - pillow
+  - mglearn
