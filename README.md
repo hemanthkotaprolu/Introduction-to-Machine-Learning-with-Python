@@ -1,4 +1,4 @@
-<h2> <b> Implementation of concepts from `Introduction to Machine Learning with Python` by `Andreas C. Müller & Sarah Guido`</b> </h2>
+## Implementation of concepts from `Introduction to Machine Learning with Python` by `Andreas C. Müller & Sarah Guido`
 
 <hr>
 
