@@ -8,4 +8,4 @@
 1. Run the command `conda env create -f environment.yml`
 1. Once done open `jupyter notebook` or `jupyter lab`
 1. Run the entire `chapter_1.ipynb` notebook and make sure no error.
-1. Then you can start running the notebooks on other folders.
+1. Then you can start running the notebooks in the project.
