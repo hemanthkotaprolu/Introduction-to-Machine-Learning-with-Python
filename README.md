@@ -9,3 +9,9 @@
 1. Once done open `jupyter notebook` or `jupyter lab`
 1. Run the entire `chapter_1.ipynb` notebook and make sure no error.
 1. Then you can start running the notebooks in the project.
+
+
+## Contents
+#### Chapter - 1 : `Introduction`
+#### Chapter - 2 : `Supervised Learning`
+
