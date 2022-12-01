@@ -2,6 +2,11 @@
 
 <hr>
 
+## Contents
+#### Chapter - 1 : `Introduction`
+#### Chapter - 2 : `Supervised Learning`
+
+
 ## Local Setup
 1. Clone the repository using `git clone https://github.com/hemanthkotaprolu/Introduction-to-Machine-Learning-with-Python.git`
 1. Now open the terminal and navigate to the project root.
@@ -11,7 +16,5 @@
 1. Then you can start running the notebooks in the project.
 
 
-## Contents
-#### Chapter - 1 : `Introduction`
-#### Chapter - 2 : `Supervised Learning`
+
 
