@@ -3,8 +3,8 @@
 <hr>
 
 ## Contents
-#### Chapter - 1 : `Introduction`
-#### Chapter - 2 : `Supervised Learning`
+#### Chapter-1 : `Introduction`
+#### Chapter-2 : `Supervised Learning`
 
 
 ## Local Setup
