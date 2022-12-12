@@ -6,6 +6,6 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
-  - scikit-learn
+  - scikit-learn == 0.24.2
   - pillow
-  - mglearn
+  # - mglearn
