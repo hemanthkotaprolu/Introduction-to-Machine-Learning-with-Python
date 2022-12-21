@@ -6,6 +6,7 @@
 #### Chapter-1 : `Introduction`
 #### Chapter-2 : `Supervised Learning`
 #### Chapter-3 : `Unsupervised Learning`
+#### Chapter-4 : `Representing Data and Engineering Features`
 
 
 ## Local Setup
