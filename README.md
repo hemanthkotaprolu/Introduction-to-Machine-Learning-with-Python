@@ -1,4 +1,4 @@
-##### This repository contains implementation of code from `Introduction to Machine Learning with Python` by `Andreas C. Müller & Sarah Guido`
+#### This repository contains implementation of code from `Introduction to Machine Learning with Python` by `Andreas C. Müller & Sarah Guido`
 
 <hr>
 
